@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/murphy.js": {
+      "maxDuration": 30
+    }
+  }
+}
